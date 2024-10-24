@@ -10,6 +10,7 @@ fc423d3 (Esta es task1)
 develop
 HEAD
  HEAD
+ HEAD
 Rama task3
 
 Rama task4
@@ -31,4 +32,9 @@ Rama task1
 fc423d3 (Esta es task1)
 7c833e6 (Esta es task1)
 7c6db7c (Esta es task1)
->>>>>>> feature1
+ feature1
+
+Rama task3
+Rama task4
+task4
+ feature2
