@@ -1,11 +1,19 @@
 HEAD
 Esta es la rama QA
-esta es la rama developHEAD
-developHEAD
+HEAD
+esta es la rama develop
+HEAD
+develop
+HEAD
+
+esta es la rama develop
+develop
+
 Rama task2
 
 Rama task1
 fc423d3 (Esta es task1)
+HEAD
 
 develop
 HEAD
@@ -26,3 +34,4 @@ fc423d3 (Esta es task1)
 7c833e6 (Esta es task1)
 7c6db7c (Esta es task1)
 Este es un hotfix critico para feature1
+ 7c833e66645b59f10374dd40e30523dcd354330f
